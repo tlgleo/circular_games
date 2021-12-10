@@ -1,0 +1,4 @@
+from circular_collect.envs.circular_collect import CircularCollect4players_4x4_4P_Cir
+from circular_collect.envs.circular_collect import CircularCollect4players_4x4_4P_Bil
+from circular_collect.envs.circular_collect import CircularCollect4players_4x4_4P_Uni
+from circular_collect.envs.circular_collect import CircularCollect4players_4x4_4P_Uni_2
